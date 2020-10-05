@@ -25,10 +25,7 @@ module.exports = {
         title: 'About',
         path: '/about',
       },
-      {
-        title: 'Example',
-        path: '/example',
-      },
+
     ],
   },
   plugins: [
