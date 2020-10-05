@@ -12,7 +12,7 @@ module.exports = {
     copyrights: '',
     author: `Fitrah Aditiya`,
     logo: {
-      src: '/src/images/icon.png',
+      src: '',
       alt: '',
     },
     logoText: 'Fitrah Aditiya',
