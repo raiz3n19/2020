@@ -15,7 +15,7 @@ const Footer = ({ copyrights }) => (
           © 2020 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
         </span>
         <span className="footerCopyrights">
-          Created by <a href="https://radoslawkoziel.pl">@adtyaftrh_</a>
+          Created by <a href="https://instagram.com/faditiya_">@faditiya_</a>
         </span>
       </>
     )}
