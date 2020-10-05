@@ -5,7 +5,7 @@ author: "adiittt"
 path: "/about"
 ---
 
-## Hi ther
+## Hi there
 
 Hai, Perkenalkan nama ku Adit
 Saya salah satu Penulis di Website ini :)
