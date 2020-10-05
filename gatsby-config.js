@@ -12,13 +12,13 @@ module.exports = {
     copyrights: '',
     author: `Fitrah Aditiya`,
     logo: {
-      src: '',
+      src: '/src/images/icon.png',
       alt: '',
     },
     logoText: 'Fitrah Aditiya',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 2,
+    showMenuItems: 1,
     menuMoreText: 'Lainnya..',
     mainMenu: [
       {
