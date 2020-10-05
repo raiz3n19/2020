@@ -4,7 +4,7 @@ path: "/pandemi-endemi-epidemi"
 date: "2020-10-05"
 coverImage: "../images/covid.jpg"
 author: "adiittt"
-excerpt: 'Perbedaan Pandemi, Endemi, Epidemi'
+excerpt: 'Dunia darurat Virus Corona, Saking Menularnya, Virus ini udah nyebar ke lebih dari 95% negara, Bahkan, kasus paling banyak sekarang bergeser ke benua Eropa yang sekarang jadi pusat penyebaran Virus ini.'
 tags: ["covid-19", "virus", "pandemi", "wabah"]
 ---
 
