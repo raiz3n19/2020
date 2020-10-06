@@ -2,7 +2,7 @@
 title: "Menginstall Program Windows Dengan Winstall"
 path: "/install-program-windows-dengan-winstall"
 date: "2020-10-06"
-coverImage: "../images/winstall.jpg"
+coverImage: "../images/winstall.png"
 author: "adiittt"
 excerpt: 'Microsoft akan segera menambahkan pengelola paket Windows asli ke Windows 10'
 tags: ["winstall", "microsoft", "install", "windows"]
