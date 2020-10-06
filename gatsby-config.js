@@ -7,16 +7,16 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Fitrah Aditiya`,
+    title: `Home`,
     description: `Catatan Harian si Adit.`,
     copyrights: '',
-    author: `Fitrah Aditiya`,
+    author: `@faditiya_`,
     logo: {
       src: '',
       alt: '',
     },
-    logoText: 'Fitrah Aditiya',
-    defaultTheme: 'dark',
+    logoText: 'root@adtyaftrh:~$',
+    defaultTheme: 'light',
     postsPerPage: 5,
     showMenuItems: 1,
     menuMoreText: 'Lainnya..',
